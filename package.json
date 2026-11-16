@@ -1,0 +1,28 @@
+{
+  "name": "polymarket-copy-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Copies a Polymarket International wallet's sports trades onto a Polymarket US account (DRY_RUN by default).",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dry": "cross-env NTFY_TOPIC= ADDED_FUNDS_USD=0 DRY_RUN=true tsx src/index.ts",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "dashboard": "tsx tools/dashboard.ts",
+    "dry:sized": "cross-env NTFY_TOPIC= ADDED_FUNDS_USD=0 DATA_DIR=data-sized DRY_RUN=true POLYMARKET_KEY_ID= POLYMARKET_SECRET_KEY= TARGET_PROXY_WALLET=0x2879ded7fe05df00eddbb2fba412a0d30964411a LEAGUES=nba MARKET_KINDS=moneyline,spread SIZING_MODE=whale_tier TIER_THRESHOLDS_USD=3000,8000 MAX_ORDER_USD=20 tsx src/index.ts",
+    "dry:w9674": "cross-env NTFY_TOPIC= ADDED_FUNDS_USD=0 DATA_DIR=data-w9674 DRY_RUN=true POLYMARKET_KEY_ID= POLYMARKET_SECRET_KEY= TARGET_PROXY_WALLET=0x9674de4a6cf9988c629cafac79c6803984e11302 LEAGUES= MARKET_KINDS=moneyline,spread,total,soccer_winner SIZING_MODE=fixed_pct MAX_ORDER_USD=10 tsx src/index.ts",
+    "dry:w9674-sized": "cross-env NTFY_TOPIC= ADDED_FUNDS_USD=0 DATA_DIR=data-w9674-sized DRY_RUN=true POLYMARKET_KEY_ID= POLYMARKET_SECRET_KEY= TARGET_PROXY_WALLET=0x9674de4a6cf9988c629cafac79c6803984e11302 LEAGUES= MARKET_KINDS=moneyline,spread,total,soccer_winner SIZING_MODE=whale_tier TIER_THRESHOLDS_USD=300,600 MAX_ORDER_USD=20 tsx src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "polymarket-us": "^0.1.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "cross-env": "^10.1.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

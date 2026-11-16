@@ -1,0 +1,351 @@
+{
+ "slug": "ucl-bvb-rbb-2026-11-04",
+ "title": "BV Borussia 09 Dortmund vs. Real Betis Seville",
+ "startTime": "2026-11-04T20:00:00Z",
+ "active": true,
+ "closed": false,
+ "markets": [
+  {
+   "slug": "atc-ucl-bvb-rbb-2026-11-04-bvb",
+   "question": "Will BV Borussia 09 Dortmund win against Real Betis Seville in the UEFA Champions League match scheduled for Nov 4, 2026?",
+   "sportsMarketType": "soccer_team_full_time_winner",
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Yes",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    },
+    {
+     "long": false,
+     "description": "No",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "atc-ucl-bvb-rbb-2026-11-04-draw",
+   "question": "Will the UEFA Champions League match BV Borussia 09 Dortmund vs Real Betis Seville scheduled for Nov 4, 2026 end in a draw?",
+   "sportsMarketType": "soccer_team_full_time_winner",
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Yes"
+    },
+    {
+     "long": false,
+     "description": "No"
+    }
+   ]
+  },
+  {
+   "slug": "atc-ucl-bvb-rbb-2026-11-04-rbb",
+   "question": "Will Real Betis Seville win against BV Borussia 09 Dortmund in the UEFA Champions League match scheduled for Nov 4, 2026?",
+   "sportsMarketType": "soccer_team_full_time_winner",
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Yes",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    },
+    {
+     "long": false,
+     "description": "No",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-ucl-bvb-rbb-2026-11-04-pos-2pt5",
+   "question": "Will the BV Borussia 09 Dortmund cover 2.5 vs the Real Betis Seville in BVB vs RBB?",
+   "sportsMarketType": "soccer_team_full_game_spread",
+   "line": 2.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+2.50",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    },
+    {
+     "long": false,
+     "description": "-2.50",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-3pt5",
+   "question": "Will the total in BVB vs RBB be more than 3.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 3.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-2pt5",
+   "question": "Will the total in BVB vs RBB be more than 2.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 2.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-5pt5",
+   "question": "Will the total in BVB vs RBB be more than 5.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 5.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-4pt5",
+   "question": "Will the total in BVB vs RBB be more than 4.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 4.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-ucl-bvb-rbb-2026-11-04-neg-2pt5",
+   "question": "Will the BV Borussia 09 Dortmund cover -2.5 vs the Real Betis Seville in BVB vs RBB?",
+   "sportsMarketType": "soccer_team_full_game_spread",
+   "line": -2.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-2.50",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    },
+    {
+     "long": false,
+     "description": "+2.50",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-0pt5",
+   "question": "Will the total in BVB vs RBB be more than 0.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 0.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-ucl-bvb-rbb-2026-11-04-1pt5",
+   "question": "Will the total in BVB vs RBB be more than 1.5?",
+   "sportsMarketType": "soccer_team_full_game_total",
+   "line": 1.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-ucl-bvb-rbb-2026-11-04-neg-1pt5",
+   "question": "Will the BV Borussia 09 Dortmund cover -1.5 vs the Real Betis Seville in BVB vs RBB?",
+   "sportsMarketType": "soccer_team_full_game_spread",
+   "line": -1.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-1.50",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    },
+    {
+     "long": false,
+     "description": "+1.50",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-ucl-bvb-rbb-2026-11-04-pos-1pt5",
+   "question": "Will the BV Borussia 09 Dortmund cover 1.5 vs the Real Betis Seville in BVB vs RBB?",
+   "sportsMarketType": "soccer_team_full_game_spread",
+   "line": 1.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+1.50",
+     "team": {
+      "name": "BV Borussia 09 Dortmund",
+      "abbreviation": "bvb",
+      "alias": "Die Borussen",
+      "safeName": "BV Borussia 09 Dortmund"
+     }
+    },
+    {
+     "long": false,
+     "description": "-1.50",
+     "team": {
+      "name": "Real Betis Seville",
+      "abbreviation": "rbb",
+      "alias": "Real Betis Seville",
+      "safeName": "Real Betis Seville"
+     }
+    }
+   ]
+  }
+ ]
+}

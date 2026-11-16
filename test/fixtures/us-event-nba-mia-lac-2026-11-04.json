@@ -1,0 +1,1760 @@
+{
+ "slug": "nba-mia-lac-2026-11-04",
+ "title": "MIA Heat vs. LA Clippers",
+ "startTime": "2026-11-05T03:30:00Z",
+ "active": true,
+ "closed": false,
+ "markets": [
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-17pt5",
+   "question": "Will the MIA Heat cover 17.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 17.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+17.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-17.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-19pt5",
+   "question": "Will the MIA Heat cover 19.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 19.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+19.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-19.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-21pt5",
+   "question": "Will the MIA Heat cover 21.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 21.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+21.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-21.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-23pt5",
+   "question": "Will the MIA Heat cover 23.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 23.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+23.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-23.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-207pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 207.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 207.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-209pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 209.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 209.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-211pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 211.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 211.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-213pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 213.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 213.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-15pt5",
+   "question": "Will the MIA Heat cover 15.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 15.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+15.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-15.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-13pt5",
+   "question": "Will the MIA Heat cover 13.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 13.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+13.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-13.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-11pt5",
+   "question": "Will the MIA Heat cover 11.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 11.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+11.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-11.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-9pt5",
+   "question": "Will the MIA Heat cover 9.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 9.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+9.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-9.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-219pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 219.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 219.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-7pt5",
+   "question": "Will the MIA Heat cover 7.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 7.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+7.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-7.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-215pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 215.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 215.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-223pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 223.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 223.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-217pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 217.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 217.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-225pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 225.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 225.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-227pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 227.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 227.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-5pt5",
+   "question": "Will the MIA Heat cover 5.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 5.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+5.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-5.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-221pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 221.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 221.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-3pt5",
+   "question": "Will the MIA Heat cover 3.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 3.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+3.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-3.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-pos-1pt5",
+   "question": "Will the MIA Heat cover 1.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": 1.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+1.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "-1.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "aec-nba-mia-lac-2026-11-04",
+   "question": "Who will win in the upcoming basketball event MIA Heat vs LA Clippers scheduled for November 5, 2026 at 3:30 AM UTC?",
+   "sportsMarketType": "basketball_team_full_game_winner",
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Heat",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "Clippers",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-1pt5",
+   "question": "Will the MIA Heat cover -1.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -1.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-1.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+1.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-229pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 229.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 229.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-2pt5",
+   "question": "Will the MIA Heat cover -2.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -2.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-2.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+2.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-3pt5",
+   "question": "Will the MIA Heat cover -3.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -3.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-3.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+3.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-231pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 231.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 231.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-4pt5",
+   "question": "Will the MIA Heat cover -4.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -4.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-4.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+4.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-233pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 233.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 233.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-237pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 237.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 237.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-5pt5",
+   "question": "Will the MIA Heat cover -5.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -5.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-5.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+5.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-234pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 234.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 234.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-241pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 241.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 241.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-243pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 243.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 243.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-245pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 245.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 245.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-257pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 257.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 257.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-259pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 259.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 259.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-261pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 261.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 261.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-263pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 263.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 263.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-249pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 249.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 249.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-253pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 253.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 253.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-255pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 255.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 255.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-235pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 235.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 235.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-251pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 251.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 251.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-6pt5",
+   "question": "Will the MIA Heat cover -6.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -6.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-6.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+6.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-247pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 247.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 247.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-nba-mia-lac-2026-11-04-239pt5",
+   "question": "Will the total in MIA Heat vs. LA Clippers be more than 239.5?",
+   "sportsMarketType": "basketball_team_full_game_total",
+   "line": 239.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-7pt5",
+   "question": "Will the MIA Heat cover -7.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -7.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-7.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+7.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-8pt5",
+   "question": "Will the MIA Heat cover -8.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -8.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-8.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+8.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-9pt5",
+   "question": "Will the MIA Heat cover -9.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -9.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-9.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+9.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-10pt5",
+   "question": "Will the MIA Heat cover -10.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -10.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-10.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+10.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-12pt5",
+   "question": "Will the MIA Heat cover -12.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -12.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-12.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+12.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-14pt5",
+   "question": "Will the MIA Heat cover -14.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -14.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-14.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+14.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-16pt5",
+   "question": "Will the MIA Heat cover -16.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -16.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-16.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+16.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-18pt5",
+   "question": "Will the MIA Heat cover -18.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -18.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-18.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+18.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-20pt5",
+   "question": "Will the MIA Heat cover -20.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -20.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-20.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+20.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-22pt5",
+   "question": "Will the MIA Heat cover -22.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -22.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-22.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+22.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-32pt5",
+   "question": "Will the MIA Heat cover -32.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -32.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-32.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+32.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-24pt5",
+   "question": "Will the MIA Heat cover -24.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -24.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-24.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+24.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-26pt5",
+   "question": "Will the MIA Heat cover -26.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -26.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-26.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+26.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-30pt5",
+   "question": "Will the MIA Heat cover -30.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -30.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-30.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+30.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-nba-mia-lac-2026-11-04-neg-28pt5",
+   "question": "Will the MIA Heat cover -28.5 vs the LA Clippers in MIA Heat vs. LA Clippers?",
+   "sportsMarketType": "basketball_team_full_game_spread",
+   "line": -28.5,
+   "active": true,
+   "closed": false,
+   "status": "MARKET_STATUS_OPEN",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-28.50",
+     "team": {
+      "name": "Miami Heat",
+      "abbreviation": "mia",
+      "alias": "Miami Heat",
+      "safeName": "Heat"
+     }
+    },
+    {
+     "long": false,
+     "description": "+28.50",
+     "team": {
+      "name": "Los Angeles Clippers",
+      "abbreviation": "lac",
+      "alias": "Los Angeles Clippers",
+      "safeName": "Clippers"
+     }
+    }
+   ]
+  }
+ ]
+}

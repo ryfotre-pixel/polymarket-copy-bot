@@ -1,0 +1,13 @@
+node_modules/
+
+# Secrets: API keys and private settings never go on GitHub
+.env
+.env.*
+!.env.example
+
+# Bot state, trade logs and account data
+data/
+data-*/
+
+# Local editor/app settings
+.claude/

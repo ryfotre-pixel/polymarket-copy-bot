@@ -1,0 +1,2646 @@
+{
+ "slug": "cfb-ohio-akron-2026-11-03",
+ "title": "Ohio vs. Akron",
+ "startTime": "2026-11-04T00:00:00Z",
+ "active": true,
+ "closed": false,
+ "ended": true,
+ "markets": [
+  {
+   "slug": "aec-cfb-ohio-akron-2026-11-03",
+   "question": "Who will win in the upcoming football event Ohio vs Akron scheduled for November 4, 2026 at 12:00 AM UTC?",
+   "sportsMarketType": "football_team_full_game_winner",
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Bobcats",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Zips",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-10pt5",
+   "question": "Will the Ohio cover -10.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -10.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-10.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+10.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-11pt5",
+   "question": "Will the Ohio cover -11.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -11.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-11.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+11.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-13pt5",
+   "question": "Will the Ohio cover -13.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -13.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-13.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+13.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-14pt5",
+   "question": "Will the Ohio cover -14.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -14.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-14.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+14.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-16pt5",
+   "question": "Will the Ohio cover -16.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -16.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-16.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+16.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-17pt5",
+   "question": "Will the Ohio cover -17.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -17.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-17.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+17.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-19pt5",
+   "question": "Will the Ohio cover -19.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -19.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-19.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+19.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-1pt5",
+   "question": "Will the Ohio cover -1.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -1.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-1.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+1.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-20pt5",
+   "question": "Will the Ohio cover -20.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -20.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-20.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+20.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-21pt5",
+   "question": "Will the Ohio cover -21.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -21.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-21.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+21.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-23pt5",
+   "question": "Will the Ohio cover -23.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -23.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-23.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+23.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-27pt5",
+   "question": "Will the Ohio cover -27.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -27.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-27.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+27.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-28pt5",
+   "question": "Will the Ohio cover -28.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -28.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-28.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+28.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-2pt5",
+   "question": "Will the Ohio cover -2.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -2.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-2.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+2.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-30pt5",
+   "question": "Will the Ohio cover -30.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -30.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-30.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+30.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-33pt5",
+   "question": "Will the Ohio cover -33.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -33.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-33.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+33.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-35pt5",
+   "question": "Will the Ohio cover -35.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -35.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-35.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+35.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-38pt5",
+   "question": "Will the Ohio cover -38.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -38.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-38.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+38.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-3pt5",
+   "question": "Will the Ohio cover -3.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -3.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-3.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+3.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-41pt5",
+   "question": "Will the Ohio cover -41.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -41.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-41.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+41.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-45pt5",
+   "question": "Will the Ohio cover -45.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -45.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-45.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+45.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-48pt5",
+   "question": "Will the Ohio cover -48.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -48.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-48.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+48.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-49pt5",
+   "question": "Will the Ohio cover -49.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -49.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-49.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+49.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-4pt5",
+   "question": "Will the Ohio cover -4.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -4.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-4.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+4.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-51pt5",
+   "question": "Will the Ohio cover -51.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -51.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-51.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+51.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-54pt5",
+   "question": "Will the Ohio cover -54.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -54.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-54.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+54.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-5pt5",
+   "question": "Will the Ohio cover -5.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -5.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-5.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+5.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-6pt5",
+   "question": "Will the Ohio cover -6.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -6.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-6.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+6.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-7pt5",
+   "question": "Will the Ohio cover -7.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -7.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-7.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+7.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-8pt5",
+   "question": "Will the Ohio cover -8.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -8.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-8.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+8.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-neg-9pt5",
+   "question": "Will the Ohio cover -9.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": -9.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "-9.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "+9.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-10pt5",
+   "question": "Will the Ohio cover 10.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 10.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+10.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-10.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-1pt5",
+   "question": "Will the Ohio cover 1.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 1.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+1.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-1.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-2pt5",
+   "question": "Will the Ohio cover 2.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 2.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+2.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-2.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-3pt5",
+   "question": "Will the Ohio cover 3.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 3.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+3.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-3.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-4pt5",
+   "question": "Will the Ohio cover 4.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 4.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+4.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-4.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-5pt5",
+   "question": "Will the Ohio cover 5.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 5.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+5.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-5.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-6pt5",
+   "question": "Will the Ohio cover 6.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 6.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+6.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-6.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-7pt5",
+   "question": "Will the Ohio cover 7.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 7.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+7.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-7.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-8pt5",
+   "question": "Will the Ohio cover 8.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 8.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+8.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-8.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "asc-cfb-ohio-akron-2026-11-03-pos-9pt5",
+   "question": "Will the Ohio cover 9.5 vs the Akron in Ohio vs. Akron?",
+   "sportsMarketType": "football_team_full_game_spread",
+   "line": 9.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.005,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "+9.50",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "-9.50",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-21pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 21.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 21.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-28pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 28.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 28.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-32pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 32.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 32.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-35pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 35.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 35.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-39pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 39.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 39.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-42pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 42.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 42.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-43pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 43.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 43.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-44pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 44.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 44.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-45pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 45.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 45.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-46pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 46.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 46.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-47pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 47.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 47.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-48pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 48.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 48.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-49pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 49.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 49.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-50pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 50.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 50.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-51pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 51.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 51.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-52pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 52.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 52.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-53pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 53.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 53.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-54pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 54.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 54.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-55pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 55.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 55.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-56pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 56.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 56.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-59pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 59.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 59.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-63pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 63.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 63.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-66pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 66.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 66.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-70pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 70.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 70.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-total-77pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 77.5?",
+   "sportsMarketType": "football_team_full_game_total",
+   "line": 77.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over"
+    },
+    {
+     "long": false,
+     "description": "Under"
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-13pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 13.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 13.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-16pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 16.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 16.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-17pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 17.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 17.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-19pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 19.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 19.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-20pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 20.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 20.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-21pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 21.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 21.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-24pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 24.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 24.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-28pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 28.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 28.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-32pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 32.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 32.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-5pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 5.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 5.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-akron-9pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 9.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 9.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Akron",
+      "abbreviation": "akron",
+      "alias": "Zips",
+      "safeName": "Akron"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-16pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 16.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 16.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-20pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 20.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 20.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-24pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 24.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 24.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-27pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 27.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 27.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-28pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 28.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 28.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-30pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 30.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 30.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-33pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 33.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 33.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-35pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 35.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 35.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-38pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 38.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 38.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-42pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 42.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 42.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  },
+  {
+   "slug": "tsc-cfb-ohio-akron-2026-11-03-tt-ohio-46pt5",
+   "question": "Will the total in Ohio vs. Akron be more than 46.5?",
+   "sportsMarketType": "football_team_points_full_game_total",
+   "line": 46.5,
+   "active": true,
+   "closed": true,
+   "status": "MARKET_STATUS_RESOLVED",
+   "orderPriceMinTickSize": 0.01,
+   "minimumTradeQty": 0.01,
+   "marketSides": [
+    {
+     "long": true,
+     "description": "Over",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    },
+    {
+     "long": false,
+     "description": "Under",
+     "team": {
+      "name": "Ohio",
+      "abbreviation": "ohio",
+      "alias": "Bobcats",
+      "safeName": "Ohio"
+     }
+    }
+   ]
+  }
+ ]
+}
